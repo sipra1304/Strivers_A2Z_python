@@ -13,6 +13,7 @@ The solutions are organized into different categories as follows:
 5. **Recursion Solutions**
 6. **Arrays (Easy)**
 7. **Arrays (Medium)**
+8. **Binary Search Lec1**
 
 Each category contains solutions to the problems listed under that topic in the A2Z Striver Sheet.
 
@@ -25,6 +26,7 @@ Each category contains solutions to the problems listed under that topic in the 
 - **Recursion Solutions**: Completed
 - **Arrays (Easy)**: Completed
 - **Arrays (Medium)**: Completed
+- **Binary Search Lec1**: Completed
 
 Additional solutions will be uploaded as I progress through the A2Z Striver Sheet. Stay tuned for updates!
 
