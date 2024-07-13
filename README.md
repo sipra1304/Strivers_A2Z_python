@@ -14,6 +14,7 @@ The solutions are organized into different categories as follows:
 6. **Arrays (Easy)**
 7. **Arrays (Medium)**
 8. **Binary Search Lec1**
+9. **Binary Search Lec2 (ongoing)**
 
 Each category contains solutions to the problems listed under that topic in the A2Z Striver Sheet.
 
