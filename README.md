@@ -18,6 +18,7 @@ The solutions are organized into different categories as follows:
 10. **Binary Search Lec2**
 11. **Binary Search Lec3** 
 12. **Strings Lec1**
+13. **Strings Lec2**
 
 Each category contains solutions to the problems listed under that topic in the A2Z Striver Sheet.
 
@@ -31,7 +32,7 @@ Each category contains solutions to the problems listed under that topic in the 
 - **Arrays (Easy)**: Completed
 - **Arrays (Medium)**: Completed
 - **Binary Search Lec1**: Completed
-- **Strings Lec1**
+- **Strings Lec1** : Completed
 
 Additional solutions will be uploaded as I progress through the A2Z Striver Sheet. Stay tuned for updates!
 
