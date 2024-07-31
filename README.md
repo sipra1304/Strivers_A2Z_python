@@ -19,6 +19,8 @@ The solutions are organized into different categories as follows:
 11. **Binary Search Lec3** 
 12. **Strings Lec1**
 13. **Strings Lec2**
+14. **Bit Manipulation lec1**
+15. **Bit Manipulation Lec2**
 
 Each category contains solutions to the problems listed under that topic in the A2Z Striver Sheet.
 
