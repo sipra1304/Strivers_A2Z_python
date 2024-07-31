@@ -35,6 +35,8 @@ Each category contains solutions to the problems listed under that topic in the 
 - **Arrays (Medium)**: Completed
 - **Binary Search Lec1**: Completed
 - **Strings Lec1** : Completed
+- **Bit Manipulation Lec1** : Completed
+- **Bit Manipulation Lec2** : Completed
 
 Additional solutions will be uploaded as I progress through the A2Z Striver Sheet. Stay tuned for updates!
 
